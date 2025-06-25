@@ -21,7 +21,7 @@ This is a restaurant site. With this you can order the food of your choice onlin
 -  Admin can control booked packages.
 -  Admin can make another admin.
 
-### Languages & Tools:
+### Languages & Tools used:
 
 #### react, react-router-dom, react-hook-form, react-bootstrap, material-ui, firebase, nodejs, mongodb
 
