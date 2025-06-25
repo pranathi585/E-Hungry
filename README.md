@@ -1,4 +1,4 @@
-## EHungry - Stay Hungry Eat Food
+## EHungry - Stay Hungry, Eat Food
 
 ### Live Link: https://e-hungry.web.app/
 
